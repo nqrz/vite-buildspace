@@ -1,0 +1,7 @@
+.btn {
+  @apply bg-indigo-400 hover:bg-indigo-600 text-gray-200 hover:text-gray-50 transform hover:scale-110 active:scale-100 transition-all rounded-md;
+}
+
+.link {
+  @apply opacity-80 hover:opacity-100 transition-all;
+}
